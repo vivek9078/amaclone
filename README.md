@@ -1,3 +1,4 @@
 # amaclone
-This website is a clone of amazon.com
+This website is a clone of amazon.com.
+<br>
 Author: Vivek Singh Bhandari
